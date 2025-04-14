@@ -100,7 +100,7 @@ All experiments were conducted in a controlled sandbox environment provided by t
 
 ## 🗂 File Structure
 
-Lab1-Krutika/
+"""Lab1-Krutika/
 ├── Lab1Krutika.pdf               # Main answer file with screenshots
 ├── Assignment_EternalBlue.pdf    # EternalBlue Attack Instructions
 ├── Assignment_OSINT_Tools.pdf    # OSINT & Recon Lab Instructions
@@ -111,6 +111,7 @@ Lab1-Krutika/
 │   ├── decrypted_files.png           # Screenshot showing decrypted files
 │   ├── nmap_results.png              # Nmap scan output for active recon
 │   └── osint_whois.png               # WHOIS command output for OSINT
+"""
 
 
 
