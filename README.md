@@ -98,23 +98,6 @@ All experiments were conducted in a controlled sandbox environment provided by t
 
 ---
 
-## 🗂 File Structure
-
-"""Lab1-Krutika/
-├── Lab1Krutika.pdf               # Main answer file with screenshots
-├── Assignment_EternalBlue.pdf    # EternalBlue Attack Instructions
-├── Assignment_OSINT_Tools.pdf    # OSINT & Recon Lab Instructions
-├── Assignment_VulnScan.pdf       # SPARTA & Metasploit Exploitation Instructions
-├── Screenshots/                  # Screenshots from each lab section
-│   ├── meterpreter_win.png           # Successful Meterpreter session (WIN)
-│   ├── you_are_hacked_screen.png     # Ransomware message displayed
-│   ├── decrypted_files.png           # Screenshot showing decrypted files
-│   ├── nmap_results.png              # Nmap scan output for active recon
-│   └── osint_whois.png               # WHOIS command output for OSINT
-"""
-
-
-
 ## ⚠️ Legal Disclaimer
 
 > This lab was conducted strictly in a **virtualized sandbox environment** designed for educational purposes.  
