@@ -113,6 +113,7 @@ Lab1-Krutika/
 │   └── osint_whois.png               # WHOIS command output for OSINT
 
 
+
 ## ⚠️ Legal Disclaimer
 
 > This lab was conducted strictly in a **virtualized sandbox environment** designed for educational purposes.  
